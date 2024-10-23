@@ -6,6 +6,12 @@ weight: 3
 
 This is a list of all resources created by the community. Please let us know if some resource is missing or outdated.
 
+## Alternative Wikies
+
+| Type  | Name              | Link                                    | Description                                                                             |
+|-------|-------------------|-----------------------------------------|-----------------------------------------------------------------------------------------|
+| Docs  | PrUn Chronicles   | https://docs.google.com/document/d/1GYHdkDXeICeJOIw7fYZ7NHjRgBI3Qzm3GGHK1HtrZGg/edit?usp=sharing.| A community based project, trying to chronicle all of PrUn. |
+
 ## Discord servers
 
 | Type      | Name                                                           | Description                                                                   |   |
