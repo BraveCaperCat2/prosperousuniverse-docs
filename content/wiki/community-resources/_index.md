@@ -6,7 +6,7 @@ weight: 3
 
 This is a list of all resources created by the community. Please let us know if some resource is missing or outdated.
 
-## Alternative Wikies
+## Alternative Wikis
 
 | Type  | Name              | Link                                    | Description                                                                             |
 |-------|-------------------|-----------------------------------------|-----------------------------------------------------------------------------------------|
