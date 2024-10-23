@@ -10,7 +10,7 @@ This is a list of all resources created by the community. Please let us know if 
 
 | Type  | Name              | Link                                    | Description                                                                             |
 |-------|-------------------|-----------------------------------------|-----------------------------------------------------------------------------------------|
-| Docs  | PrUn Chronicles   | https://docs.google.com/document/d/1GYHdkDXeICeJOIw7fYZ7NHjRgBI3Qzm3GGHK1HtrZGg/edit?usp=sharing.| A community based project, trying to chronicle all of PrUn. |
+| Docs  | PrUn Chronicles   | [Google Doc](https://docs.google.com/document/d/1GYHdkDXeICeJOIw7fYZ7NHjRgBI3Qzm3GGHK1HtrZGg/edit?usp=sharing) | A community based project, trying to chronicle all of PrUn. |
 
 ## Discord servers
 
