@@ -181,7 +181,7 @@ Over time, buildings degrade and in turn, production line efficiency for that bu
 
 ### When do I have to repair my buildings?
 
-As with many things in this game, it depends. Many in the community suggest repairing at around 90 days.
+As with many things in this game, it depends. [This](https://docs.google.com/spreadsheets/d/1ELsfw4ii1hQFWDd-BL4JzwqHc-wGVXbJtvAeprv0pZ0/edit?usp=drivesdk) is a great guide and calculator to find out when.
 
 ### How does fertility affect my buildings?
 
