@@ -1,5 +1,8 @@
 ---
 title: "Events"
-date: 2024-10-24T12:00:00+01:00
+date: 2024-10-24T12:00:00+01:00±
 ---
 ## Events
+
+### The FTL Network Disruption
+The FTL Network Disruption is a server outage which occurred on ***Reminder: put date here***. This server outage was named The FTL Network Disruption, as when the entire FTL Network went down temporarily, all communications stopped. This included the APEX Console, and APEX users could not use any part of the console. After the FTL Network    came back online, there were still some disruptions in the network. APEX users could not order ships to travel to any locations. This is due to the navigation subsystems going offline. Until the disruptions stopped, only pre-reccorded navigation commands could be performed. The disruptions had officially stopped on ***Reminder: put date here***, when the APEX Console restarted for all users. This was likely due to outstanding errors in existing systems. The FTL Network was disrupted by multiple members of various parliaments authorising an experiment without first consulting with the other members of their respective parliament. These parliamentary members were arrested by planetary authorities shortly after the event. As for the experiments - they were either a complete failure and trying to do something good, or a deliberate attempt to sabotage the FTL Network. The scientists working on these experiments have still not been revealed. We're hoping that we're not facing a galactic crisis here.
