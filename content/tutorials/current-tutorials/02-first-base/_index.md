@@ -12,14 +12,14 @@ When you load into the APEX interface for the first time, you will be greeted by
 
 Each window you see is referred to as a tile, and you can make a new unattached tile by selecting the NEW BFR button in the bottom left hand corner of the interface.
 
-On your left side you will see the galactic map, it is here that you can see the location of your base, your fleets, CX’s and shipyards. You can also use this map to search for a particular resource in the galaxy, or find a certain population type as well.
-Next in the center of your interface is the planet your fleet is stationed at. Every new APEX user will not start with a base already setup, but start with a fleet of ships landed on the planet of your choosing.
+On your left side you will see the galactic map, it is here that you can see the location of your bases, your ships, CXs and shipyards. You can also use this map to search for a particular resource in the galaxy, or find a certain population type as well.
+Next in the center of your interface is the planet your fleet is currently stationed at. Every new APEX user will not start with a base already setup, but start with a fleet of ships landed on the planet of your choosing.
 
-On our right hand side, we have the fleet tile. This shows you the cargo, the status, fuel capacity, and location of the first two starter ships in your fleet.
+On our right hand side, we have the fleet tile. This shows you the cargo, the status, fuel capacity, and location of the first two ships in your fleet.
 
-Down in the bottom right corner of your interface, you will see the APEX global chat. This is the chat that all members of the APEX community use to communicate, and broadcast to everyone in the galaxy.
+Down in the bottom right corner of your interface, you will see the APEX global chat. This is one of the chats that all members of the APEX community use to communicate, and broadcast to everyone in the galaxy.
 
-Further to the right of that tile is the APEX Help channel. This is a resource we have provided to new APEX users as a method of connecting with other users so that you can ask and offer help when needed.
+Further to the right of that tile is the APEX Help channel. This is another chat we have provided to new APEX users as a method of connecting with other users so that you can ask and offer help when needed.
 
 All other tiles we will address within this set up guide eventually.
 
